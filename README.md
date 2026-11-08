@@ -2,6 +2,12 @@
 
 This repository is a minimal Godot 4 starter project for a neon-lit driving and flight prototype inspired by Taipei.
 
+## Play the game
+
+[Play Neon Flight City](https://olivialu0924-star.github.io/neon-flight-city/)
+
+> The web demo link will work after GitHub Pages is configured and a successful web build is deployed. If it currently shows a 404, the game has not been published yet.
+
 ## Included
 - One playable car scene
 - Basic driving movement
